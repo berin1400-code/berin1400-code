@@ -1,18 +1,126 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:92FE9D&height=250&section=header&text=BERIN%20SIMON%20ROY%20B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=BERIN%20SIMON%20ROY%20B&fontAlign=50&fontAlignY=40&fontSize=50&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">🚀 FULL STACK .NET DEVELOPER 🚀</h2>
+<h1 align="center">🚀 FULL STACK .NET DEVELOPER 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Full+Stack+.NET+Developer;React+Developer;Cloud+%26+DevOps+Learner;AWS+Enthusiast;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+.NET+Developer;React+Developer;Cloud+Enthusiast;AWS+Learner;Future+Software+Engineer;Top+MNC+Dreamer&center=true&width=800&height=50&color=00C9FF&size=30">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=berin1400-code&style=for-the-badge&color=blueviolet">
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Information Technology Student
+
+💻 Aspiring Full Stack .NET Developer
+
+⚛️ React Developer
+
+☁️ AWS & DevOps Learner
+
+🧠 DSA Enthusiast
+
+🚀 Building Projects Every Day
+
+🎯 Goal: High-Package Software Developer
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,python,mysql,git,github,aws,docker,vscode"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=berin1400-code&theme=radical&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=berin1400-code&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berin1400-code&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=berin1400-code&theme=tokyonight"/>
+</p>
+
+---
+
+# 🚀 Current Learning Journey
+
+✅ C#
+
+✅ ASP.NET Core
+
+✅ React.js
+
+✅ SQL & MySQL
+
+✅ AWS Cloud
+
+✅ Docker
+
+✅ Data Structures & Algorithms
+
+---
+
+# 📌 Featured Projects
+
+🏦 Bank Management Database System
+
+🍽️ Meal Finder React App
+
+🛒 E-Commerce Website
+
+🏥 Doctor Appointment System
+
+🚀 More Exciting Projects Coming Soon
+
+---
+
+# 🎯 2026 Goals
+
+🏆 Secure Top MNC Placement
+
+🏆 Master Full Stack .NET Development
+
+🏆 Become Cloud Certified
+
+🏆 Build Industry-Level Projects
+
+🏆 Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
+
+📧 Your Email
+
+💼 LinkedIn Profile
+
+🌎 Portfolio Website
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 </p>

@@ -28,7 +28,7 @@
 
 🚀 Building Projects Every Day
 
-🎯 Goal: High-Package Software Developer
+
 
 ---
 
